@@ -2,7 +2,7 @@
 
 I am a Computer Science graduate with a strong interest in Software Engineering and Web Development.
 I am currently focused on building projects, improving problem-solving skills, and learning real-world development workflows.
-
+ 
 💻 Skills & Technologies
 Languages :C++ and Java
 
