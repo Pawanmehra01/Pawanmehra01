@@ -7,7 +7,8 @@ I am currently focused on building projects, improving problem-solving skills, a
 Languages :C++ and Java
 
 🌐 Frontend
-• HTML
+
+• HTML 
 • CSS
 • JavaScript
 • Responsive Web Design
